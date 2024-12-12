@@ -150,19 +150,6 @@ A aplicação da Inteligência Artificial (IA) na área da acessibilidade, embor
 
 - Tomada de decisões: É preciso definir claramente quem é responsável pelas decisões tomadas por sistemas de IA, especialmente em situações que envolvem riscos para a segurança e o bem-estar dos usuários.
 
-Questões Éticas Relacionadas ao Uso da IA na Área da Acessibilidade
-A aplicação da Inteligência Artificial (IA) na área da acessibilidade, embora promissora, levanta diversas questões éticas que precisam ser cuidadosamente consideradas. A seguir, discutiremos alguns dos principais pontos:
-
-1. Viés Algorítmico e Discriminação:
-Perpetuação de estereótipos: Algoritmos treinados com dados históricos podem perpetuar preconceitos e estereótipos sobre pessoas com deficiência, levando a soluções que não atendem às suas necessidades específicas.
-Discriminação: Sistemas de IA podem discriminar determinados grupos de pessoas com deficiência, negando-lhes acesso a serviços e oportunidades.
-2. Privacidade e Segurança:
-Coleta e uso de dados sensíveis: A coleta e o uso de dados pessoais para o desenvolvimento e treinamento de modelos de IA podem violar a privacidade dos indivíduos, especialmente quando se trata de informações relacionadas à saúde e à deficiência.
-Vulnerabilidade a ataques: Sistemas de IA podem ser alvo de ataques cibernéticos, expondo informações pessoais e comprometendo a segurança dos usuários.
-3. Autonomia e Dependência:
-Excesso de dependência: Uma dependência excessiva de sistemas de IA pode limitar a autonomia das pessoas com deficiência, tornando-as vulneráveis a falhas tecnológicas.
-Tomada de decisões: É preciso definir claramente quem é responsável pelas decisões tomadas por sistemas de IA, especialmente em situações que envolvem riscos para a segurança e o bem-estar dos usuários.
-
 4. Acessibilidade da própria IA:
 
 - Linguagem e interfaces: É fundamental garantir que as interfaces e as linguagens utilizadas pelos sistemas de IA sejam acessíveis a todas as pessoas, incluindo aquelas com deficiência visual, auditiva e cognitiva.
@@ -174,25 +161,6 @@ Tomada de decisões: É preciso definir claramente quem é responsável pelas de
 - Responsabilidade por erros: Quem é responsável pelos erros cometidos por sistemas de IA? Como garantir a responsabilização em caso de danos causados por esses sistemas?
 
 - Transparência: É fundamental garantir a transparência dos algoritmos de IA, permitindo que os usuários compreendam como as decisões são tomadas e quais os dados são utilizados.
-
-Questões Éticas Relacionadas ao Uso da IA na Área da Acessibilidade
-A aplicação da Inteligência Artificial (IA) na área da acessibilidade, embora promissora, levanta diversas questões éticas que precisam ser cuidadosamente consideradas. A seguir, discutiremos alguns dos principais pontos:
-
-1. Viés Algorítmico e Discriminação:
-Perpetuação de estereótipos: Algoritmos treinados com dados históricos podem perpetuar preconceitos e estereótipos sobre pessoas com deficiência, levando a soluções que não atendem às suas necessidades específicas.
-Discriminação: Sistemas de IA podem discriminar determinados grupos de pessoas com deficiência, negando-lhes acesso a serviços e oportunidades.
-2. Privacidade e Segurança:
-Coleta e uso de dados sensíveis: A coleta e o uso de dados pessoais para o desenvolvimento e treinamento de modelos de IA podem violar a privacidade dos indivíduos, especialmente quando se trata de informações relacionadas à saúde e à deficiência.
-Vulnerabilidade a ataques: Sistemas de IA podem ser alvo de ataques cibernéticos, expondo informações pessoais e comprometendo a segurança dos usuários.
-3. Autonomia e Dependência:
-Excesso de dependência: Uma dependência excessiva de sistemas de IA pode limitar a autonomia das pessoas com deficiência, tornando-as vulneráveis a falhas tecnológicas.
-Tomada de decisões: É preciso definir claramente quem é responsável pelas decisões tomadas por sistemas de IA, especialmente em situações que envolvem riscos para a segurança e o bem-estar dos usuários.
-4. Acessibilidade da própria IA:
-Linguagem e interfaces: É fundamental garantir que as interfaces e as linguagens utilizadas pelos sistemas de IA sejam acessíveis a todas as pessoas, incluindo aquelas com deficiência visual, auditiva e cognitiva.
-Custo: O acesso à tecnologia de IA pode ser limitado por questões financeiras, o que pode gerar desigualdades no acesso a soluções de acessibilidade.
-5. Responsabilidade e Transparência:
-Responsabilidade por erros: Quem é responsável pelos erros cometidos por sistemas de IA? Como garantir a responsabilização em caso de danos causados por esses sistemas?
-Transparência: É fundamental garantir a transparência dos algoritmos de IA, permitindo que os usuários compreendam como as decisões são tomadas e quais os dados são utilizados.
 
 6. Inclusão no desenvolvimento:
 
