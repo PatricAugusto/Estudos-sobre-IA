@@ -269,4 +269,3 @@ Outras sugestões:
 Incluir gráficos e imagens: Utilize gráficos e imagens para ilustrar os conceitos e tornar o texto mais visualmente atraente.
 Citar fontes: Cite as fontes utilizadas para embasar as informações apresentadas no texto.
 Revisar a gramática e a ortografia: Certifique-se de que o texto esteja livre de erros gramaticais e ortográficos.
-Com essas sugestões, o seu artigo ficará ainda mais completo e impactante, contribuindo para a disseminação do conhecimento sobre a importância da IA para a acessibilidade na Web.
