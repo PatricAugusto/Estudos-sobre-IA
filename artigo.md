@@ -239,6 +239,8 @@ No entanto, alguns desafios precisam ser superados:
 - **Padronização:** A falta de padrões internacionais para a acessibilidade digital pode dificultar a implementação de soluções universais.
 - **Conscientização:** É fundamental conscientizar a sociedade sobre a importância da acessibilidade digital e a necessidade de criar um ambiente online mais inclusivo.
 
+- Em desenvolvimentoooo
+
 ## Conclusão
 
 A Web 4.0 representa uma oportunidade única para construir um futuro digital mais justo e equitativo. Ao trabalhar em conjunto, governo, empresas, academia e sociedade civil podem superar os desafios e construir um mundo onde a acessibilidade digital seja uma realidade para todos.
